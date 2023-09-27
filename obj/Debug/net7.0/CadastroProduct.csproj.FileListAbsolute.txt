@@ -1,0 +1,15 @@
+C:\Users\stanl\Desktop\CadastroProduct\bin\Debug\net7.0\CadastroProduct.exe
+C:\Users\stanl\Desktop\CadastroProduct\bin\Debug\net7.0\CadastroProduct.deps.json
+C:\Users\stanl\Desktop\CadastroProduct\bin\Debug\net7.0\CadastroProduct.runtimeconfig.json
+C:\Users\stanl\Desktop\CadastroProduct\bin\Debug\net7.0\CadastroProduct.dll
+C:\Users\stanl\Desktop\CadastroProduct\bin\Debug\net7.0\CadastroProduct.pdb
+C:\Users\stanl\Desktop\CadastroProduct\obj\Debug\net7.0\CadastroProduct.csproj.AssemblyReference.cache
+C:\Users\stanl\Desktop\CadastroProduct\obj\Debug\net7.0\CadastroProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stanl\Desktop\CadastroProduct\obj\Debug\net7.0\CadastroProduct.AssemblyInfoInputs.cache
+C:\Users\stanl\Desktop\CadastroProduct\obj\Debug\net7.0\CadastroProduct.AssemblyInfo.cs
+C:\Users\stanl\Desktop\CadastroProduct\obj\Debug\net7.0\CadastroProduct.csproj.CoreCompileInputs.cache
+C:\Users\stanl\Desktop\CadastroProduct\obj\Debug\net7.0\CadastroProduct.dll
+C:\Users\stanl\Desktop\CadastroProduct\obj\Debug\net7.0\refint\CadastroProduct.dll
+C:\Users\stanl\Desktop\CadastroProduct\obj\Debug\net7.0\CadastroProduct.pdb
+C:\Users\stanl\Desktop\CadastroProduct\obj\Debug\net7.0\CadastroProduct.genruntimeconfig.cache
+C:\Users\stanl\Desktop\CadastroProduct\obj\Debug\net7.0\ref\CadastroProduct.dll
